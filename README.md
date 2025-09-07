@@ -43,7 +43,7 @@ Note: Dataset used for this project is available on Kaggle. Please download a si
    - Low-valence (sad/melancholic) songs (~391M avg streams) top the chart, followed by medium (~376M), with high-valence “happy” songs trailing (~330M). It confirms the trend that sad/bittersweet songs resonate most with listeners.
 
  ##  Sample Outputs
-Exported query results are available in the `outputs/` folder:
+Exported query results :
 - Top 10 most streamed songs overall and in 2023 (`top10_overall_and_2023.csv`)
 - ranking by average across different platforms (`avg_rank_across_platforms.csv`)
 - Relationship between valence and streams (`valence_vs_streams.csv`)
