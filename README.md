@@ -23,8 +23,13 @@ Note: Dataset used for this project is available on Kaggle. Please download a si
 
  ##  Tools Used
 - MySQL Workbench  
-- SQL (DDL & DML)  
+- SQL (DDL & DML)
+- kaggle dataset 
 
+ ##  key takeaways
+ - Cross-platform consistency: Tracks like Arcángel, Bizarrap – Bzrp Music Sessions and Pipoco ranked Top 3 consistently across Spotify, Apple, Shazam, and Deezer, proving they were true global hits.
+ - Regional variations: Some songs (like Lilith feat. SUGA) ranked well on Spotify but much lower on Apple/Shazam, suggesting regional or platform-specific fanbases.
+ - Shazam = discovery engine: High Shazam ranks for certain songs show they were being searched/discovered, even when Spotify/Apple placements were weaker.
  ##  Sample Outputs
 Exported query results are available in the `outputs/` folder:
 - Top 10 most streamed songs overall and in 2023 (`top10_overall_and_2023.csv`)
