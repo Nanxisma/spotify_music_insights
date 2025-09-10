@@ -20,7 +20,9 @@ Note: Dataset used for this project is available on Kaggle. Please download a si
 - Top 10 most streamed songs overall and in 2023  
 - Songs with "Die For You" in the title (ranked by streams)  
 - Top 10 songs ranked across Spotify, Apple Music, Shazam, and Deezer  
-- Impact of song characteristics (danceability, valence, energy) on streams  
+- Impact of song characteristics (danceability, valence, energy) on streams.
+  
+  Note : Dataset was checked for missing values and consistency. No cleaning was necessary.
 
  ##  Tools Used
 - MySQL Workbench  
@@ -47,4 +49,7 @@ Exported query results :
 - Top 10 most streamed songs overall and in 2023 (`top10_overall_and_2023.csv`)
 - ranking by average across different platforms (`avg_rank_across_platforms.csv`)
 - Relationship between valence and streams (`valence_vs_streams.csv`)
+
+ ## Future Improvements
+   Add interactive dashboards and visualizations using Tableau or Power BI to enhance data exploratio  and insights.
 
